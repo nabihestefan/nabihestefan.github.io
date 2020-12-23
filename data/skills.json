@@ -1,0 +1,18 @@
+[
+  {
+      "grouping":"Coding",
+      "skills":[ "Java", "Python", "HTML", "CSS3", "JavaScript", "Arduino", "R", "OCaml", "C", "MatLab"]
+  },
+  {
+      "grouping":"Operation Systems",
+      "skills":[ "Linux", "MacOS", "Windows"]
+  },
+  {
+      "grouping":"Other Tools",
+      "skills":[ "Computer Architecture", "Verilog", "Data Science", "Latex", "Circuit Design"]
+  },
+  {
+      "grouping":"Languages",
+      "skills":["English", "Spanish", "Portuguese"]
+  }
+]
