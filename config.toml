@@ -1,5 +1,5 @@
 title = "Nabih Estefan Diaz"
-baseURL = "nabihestefan.com"
+baseURL = "nabihestefan.github.io"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
