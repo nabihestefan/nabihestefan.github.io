@@ -3,7 +3,7 @@
   "date": "2020-12-11T12:00:00-05:00",
   "image": "/img/PancakeLogo.png",
   "link": "https://sites.google.com/view/pancake-tosser/home",
-  "description": "Taking orientations and accelerations of a pan in a pancake flip, we calculate the positions of the pan so that we can compare it against a perfect pancake flip and we can tell the differences so the person flipping can perfect their technique",
+  "description": "Taking orientations and accelerations of a pan in a pancake flip, we calculate the positions of the pan so that we can compare it against a perfect pancake flip and we can tell the differences so the person flipping can perfect their technique.",
   "tags": ["MatLab", "Sensing", "Art Design", "Frequency Analysis"],
   "fact": "",
   "featured":true

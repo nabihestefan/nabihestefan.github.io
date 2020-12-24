@@ -3,7 +3,7 @@
   "date": "2020-12-11T12:00:00-05:00",
   "image": "/img/MCALULogo.png",
   "link": "https://sites.google.com/view/minecraft-alu/home",
-  "description": "Throughout the semester in out Computer Architecture class, we learned how different logic gates are used to create different components of a CPU, eventually leading up to us building a full Single-Cycle CPU (which you can see in another project). For our final project, Oscar De La Garza and I decided to recreate one of these very important components from a CPU in a different platform than the ones we had used previously: Minecraft.",
+  "description": "Throughout the semester in our Computer Architecture class, we learned how different logic gates are used to create different components of a CPU, eventually leading up to us building a full Single-Cycle CPU (which you can see in another project). For our final project, Oscar De La Garza and I decided to recreate one of these very important components from a CPU in a different platform than the ones we had used previously: Minecraft.",
   "tags": ["Computer Architecture", "Verilog", "Minecraft", "Logic Gates"],
   "fact": "",
   "featured":true

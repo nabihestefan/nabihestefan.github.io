@@ -1,49 +1,49 @@
 [
     {
         "role":"Incoming STEP (Student Training in Engineering Program) Intern",
-        "company":"Google",
+        "company":"<a href='https://buildyourfuture.withgoogle.com/programs/step/' target='_blank' rel='noopener noreferrer'>Google</a>",
         "summary":"Incoming Intern in Google's STEP Program. Specifics TBD.",
         "range":"May 2021 - August 2021"
     },
     {
         "role":"Electrical & Computer Engineering Member",
-        "company":"Olin Electric Motorspors - Formula SAE",
+        "company":"<a href='https://www.olinelectricmotorsports.com/' target='_blank' rel='noopener noreferrer'>Olin Electric Motorspors - Formula SAE</a>",
         "summary":"Worked on multiple projects like designing, populating and coding PCBs for Battery voltage management and working on the interface for a HitL (Hardware-in-the-Loop) system for testing the car's electrical system (current project).",
         "range":"August 2019 - Present"
     },
     {
         "role":"Member of the Board of Directors",
-        "company":"SEDI Solutions",
-        "summary":"SEDI is a software development company based in Colombia focused on solutions for the self-storage industry. Part of the board of directors, helping guide the company to the goals we seek to achieve.",
+        "company":"<a href='https://sedisolutions.co/' target='_blank' rel='noopener noreferrer'>SEDI Solutions</a>",
+        "summary":"SEDI is a software development company based in Colombia focused on solutions for the self-storage industry. As part of the board of directors, helping guide the company to the goals we seek to achieve.",
         "range":"November 2019 - Present"
     },
     {
         "role":"Founding Member",
-        "company":"The Multicultural Innovators eXperience (The MIX)",
-        "summary":"Houses Olin’s NSBE and SHPE Chapters. Resource for students of underrepresented groups to explore their identity and be able to form part in communities of people from similar backgrounds.",
+        "company":"<a href='https://www.instagram.com/themix.olin/' target='_blank' rel='noopener noreferrer'>The Multicultural Innovators eXperience (The MIX)</a>",
+        "summary":"The MIX houses Olin’s NSBE and SHPE Chapters. Resource for students of underrepresented groups to explore their identity and be able to form part in communities of people from similar backgrounds.",
         "range":"September 2019 - Present"
     },
     {
         "role":"IT Student Worker",
-        "company":"Olin College of Engineering",
+        "company":"<a href='https://www.olin.edu' target='_blank' rel='noopener noreferrer'>Olin College of Engineering</a>",
         "summary":"Man the IT Help Desk during the week to help students with software and hardware problems in their computers. Was able to learn a lot about Windows and Linux, and also how computers work.",
         "range":"January 2020 - Present"
     },
     {
         "role":"Research Assistant",
-        "company":"Olin College of Engineering",
-        "summary":"Disrupted because of the pandemic. Research about the Aquaculture community, testing and designing sensors for different measurements to help in keeping farms. Cannot give details since the product is still being developed.",
+        "company":"<a href='https://www.olin.edu' target='_blank' rel='noopener noreferrer'>Olin College of Engineering</a>",
+        "summary":"I worked as a Research Assistant in Aquaculture research, where I learned about the Aquaculture community, testing and designing sensors for different measurements to help in keeping farms. Cannot give details since the product is still being developed.",
         "range":"June 2020 - August 2020"
     },
     {
         "role":"Software Development Intern",
-        "company":"GOAMA Games",
+        "company":"<a href='https://www.goama.com/' target='_blank' rel='noopener noreferrer'>GOAMA Games</a>",
         "summary":"“The Netflix of Games”. Goama Inc. is a startup in Myanmar where and android app is being developed to let users play games on their mobile phones on a monthly subscription. Worked on the Web Development and User Data Parsing, understanding users and developing and interface.",
         "range":"June 2018 - August 2018"
     },
     {
-        "role":"Recurrent Blogger (Not Constant)",
-        "company":"TECHcetera",
+        "role":"Blogger at Large",
+        "company":"<a href='https://techcetera.co/' target='_blank' rel='noopener noreferrer'>TECHcetera</a>",
         "summary":"One of the largest technology blog in Colombia, have helped write articles since 2012 about software and hardware reviews, tech speculations, and tech news. It is read nationwide, but out biggest base of users is in Mexico and the U.S.",
         "range":"2012 - Present"
     }

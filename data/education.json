@@ -1,9 +1,16 @@
 [
     {
-        "school":"[Olin College of Engineering](https://www.olin.edu)",
+        "school":"<a href='https://www.olin.edu' target='_blank' rel='noopener noreferrer'>Olin College of Engineering</a>",
         "degree":"Bachelor of Engineering",
         "major":"Electrical & Computer Engineering",
         "notes":"",
         "range":"2019 - 2023"
+    },
+    {
+        "school":"<a href='https://www.nogales.edu.co' target='_blank' rel='noopener noreferrer'>Colegio Los Nogales</a>",
+        "degree":"High School Diploma",
+        "major":"",
+        "notes":"",
+        "range":"2004 - 2019"
     }
 ]
