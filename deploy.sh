@@ -15,6 +15,8 @@ git add -A
 git commit -m "$msg"
 git push portfolio
 
+printf "Pushed to Portfolio"
+
 # Build the project.
 hugo -t hugo-resume # if using a theme, replace with `hugo -t <YOURTHEME>`
 
@@ -27,5 +29,7 @@ cd public
 git add .
 git commit -m "$msg"
 git push public
+
+printf "Pushed to Public"
 
 cd ..
