@@ -18,7 +18,7 @@ git push upstream main
 printf "\033[0;32mPushed to Portfolio\033[0m\n"
 
 # Build the project.
-hugo -t hugo-resume # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo# if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
