@@ -13,7 +13,7 @@ fi
 #commit to Portfolio repo
 git add -A
 git commit -m "$msg"
-git push portfolio
+git push upstream main
 
 printf "Pushed to Portfolio"
 
@@ -28,7 +28,7 @@ cd public
 # commit to site repo
 git add .
 git commit -m "$msg"
-git push public
+git push origin
 
 printf "Pushed to Public"
 
