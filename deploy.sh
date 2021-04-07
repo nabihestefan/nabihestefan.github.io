@@ -30,6 +30,6 @@ git add .
 git commit -m "$msg"
 git push origin
 
-printf "Pushed to Public"
+printf "\033[0;32mPushed to Public\033[0m\n"
 
 cd ..
