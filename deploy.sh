@@ -13,7 +13,7 @@ fi
 #commit to Portfolio repo
 git add -A
 git commit -m "$msg"
-git push
+git push portfolio
 
 # Build the project.
 hugo -t hugo-resume # if using a theme, replace with `hugo -t <YOURTHEME>`
@@ -24,8 +24,8 @@ cd public
 # Add name file for when i get my domain
 # echo "www.nabihestefan.co" > CNAME
 # commit to site repo
-git add -A
+git add .
 git commit -m "$msg"
-git push
+git push public
 
 cd ..
