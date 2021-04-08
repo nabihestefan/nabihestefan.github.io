@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Nabih Estefan Diaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 12:00:00 -0500</lastBuildDate>
     
 	<atom:link href="nabihestefan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C</title>
+      <link>nabihestefan.github.io/tags/c/</link>
+      <pubDate>Wed, 07 Apr 2021 12:00:00 -0500</pubDate>
+      
+      <guid>nabihestefan.github.io/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>nabihestefan.github.io/tags/networking/</link>
+      <pubDate>Wed, 07 Apr 2021 12:00:00 -0500</pubDate>
+      
+      <guid>nabihestefan.github.io/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Server Client</title>
+      <link>nabihestefan.github.io/tags/server-client/</link>
+      <pubDate>Wed, 07 Apr 2021 12:00:00 -0500</pubDate>
+      
+      <guid>nabihestefan.github.io/tags/server-client/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socket Programming</title>
+      <link>nabihestefan.github.io/tags/socket-programming/</link>
+      <pubDate>Wed, 07 Apr 2021 12:00:00 -0500</pubDate>
+      
+      <guid>nabihestefan.github.io/tags/socket-programming/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Arduino</title>

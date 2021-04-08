@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Terminal Chess</title>
+      <link>nabihestefan.github.io/projects/creations/terminalchess/</link>
+      <pubDate>Wed, 07 Apr 2021 12:00:00 -0500</pubDate>
+      
+      <guid>nabihestefan.github.io/projects/creations/terminalchess/</guid>
+      <description>For our first project in our Software Systems class, me and my partner (Oscar De La Garza) developed a set of executable c files that can be used to set up a server for two clients to play chess. The server is run from the terminal of one computer and the two clients can connect by running the client script. These clients then take turns playing a chess game, which is all taken care of by the server.</description>
+    </item>
+    
+    <item>
       <title>Self-Balancing Rocky Robot</title>
       <link>nabihestefan.github.io/projects/creations/rockyrobot/</link>
       <pubDate>Mon, 01 Mar 2021 12:00:00 -0500</pubDate>
