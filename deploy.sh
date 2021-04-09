@@ -21,7 +21,7 @@ printf "\033[0;32mPushed to Portfolio\033[0m\n"
 hugo -t hugo-resume # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-cp -r /public/. ../Website/
+cp -r ~/public/. ~/../Website/
 cd ../Website/
 # Add name file for when i get my domain
 # echo "www.nabihestefan.co" > CNAME
