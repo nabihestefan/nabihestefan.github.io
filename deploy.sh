@@ -23,13 +23,13 @@ hugo -t hugo-resume # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cp -r public/. ../Website/
 cd ../Website/
-# Add name file for when i get my domain
-# echo "www.nabihestefan.co" > CNAME
-# commit to site repo
-git add .
-git commit -m "$msg"
-git push origin main
-
-printf "\033[0;32mPushed to Public\033[0m\n"
-
-cd ..
+# # Add name file for when i get my domain
+# # echo "www.nabihestefan.co" > CNAME
+# # commit to site repo
+# git add .
+# git commit -m "$msg"
+# git push origin main
+#
+# printf "\033[0;32mPushed to Public\033[0m\n"
+#
+# cd ..
