@@ -1,35 +1,36 @@
-#!/bin/sh
+#!/bin/bash
 
-# If a command fails then the deploy stops
 set -e
+export HUGO_SHORT_COMMIT=`git rev-parse --short HEAD`
 
-printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
-# check message
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-	msg="$*"
+if [ "`git status -s`" ]
+then
+        echo "The working directory is dirty. Please commit any pending changes."
+            exit 1;
 fi
 
-#commit to Portfolio repo
-git add -A
-git commit -m "$msg"
-git push upstream main
+echo "Deleting old publication"
+rm -rf public
+mkdir public
+git worktree prune
+rm -rf .git/worktrees/public/
 
-printf "\033[0;32mPushed to Portfolio\033[0m\n"
+echo "Checking out gh-pages branch into public"
+git worktree add -B master public origin/master
 
-# Build the project.
-hugo -t hugo-resume # if using a theme, replace with `hugo -t <YOURTHEME>`
+echo "Removing existing files"
+rm -rf public/*
 
-# Go To Public folder
+echo "Generating site"
+hugo --minify
+
+echo "Updating master pages branch"
 cd public
 
-# Add name file for when i get my domain
-# echo "www.nabihestefan.co" > CNAME
-# commit to site repo
-git add .
-git commit -m "$msg"
-git push origin main
+git add --all && git commit -m "Deploy changes"
 
-printf "\033[0;32mPushed to Public\033[0m\n"
+#echo "Pushing to github"
+printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
+git push origin master
 
 cd ..
