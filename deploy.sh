@@ -18,7 +18,7 @@ git push origin main
 printf "\033[0;32mPushed to Portfolio\033[0m\n"
 
 # Build the project.
-hugo -t hugo-resume # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo --minify # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cp -r public/. ../Website/
