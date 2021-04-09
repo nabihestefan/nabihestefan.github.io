@@ -18,18 +18,4 @@ git push origin main
 printf "\033[0;32mPushed to Portfolio\033[0m\n"
 
 # Build the project.
-hugo --minify # if using a theme, replace with `hugo -t <YOURTHEME>`
-
-# Go To Public folder
-cp -r public/. ../Website/
-cd ../Website/
-# # Add name file for when i get my domain
-# # echo "www.nabihestefan.co" > CNAME
-# # commit to site repo
-# git add .
-# git commit -m "$msg"
-# git push origin main
-#
-# printf "\033[0;32mPushed to Public\033[0m\n"
-#
-# cd ..
+hugo -t hugo-resume

@@ -1,5 +1,5 @@
 title = "Nabih Estefan Diaz"
-baseURL = "nabihestefan.github.io"
+baseURL = "https://nabihestefan.github.io"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -38,3 +38,4 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
+theme = "hugo-resume"
