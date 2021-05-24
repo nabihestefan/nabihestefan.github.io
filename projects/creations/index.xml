@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Checkmatr: A Custom Chess Engine</title>
+      <link>https://nabihestefan.github.io/projects/creations/checkmatr/</link>
+      <pubDate>Sun, 16 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/projects/creations/checkmatr/</guid>
+      <description>Chess has simple rules, but the game space is extremely large. With the strength of our current computers, we aren&amp;rsquo;t even close to solving the game of chess by brute force. As a fallback, engines use a heuristic to try to find the best moves for a given player, which basically traverses a &amp;ldquo;game tree&amp;rdquo; (tree of possible moves for both players) and quantitatively evaluates the resulting position. This project primarily focuses on how to efficiently traverse such a game tree and create an effective heuristic to maximize the strength of a chess engine.</description>
+    </item>
+    
+    <item>
+      <title>Olin Planetary Rover</title>
+      <link>https://nabihestefan.github.io/projects/creations/furbyrover/</link>
+      <pubDate>Wed, 12 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/projects/creations/furbyrover/</guid>
+      <description>For the final Fundamentals of Robotics project, our team (Isabella Abilheira, Chris Allum, Olivia Jo Bradley, Oscar De La Garza,Nabih Estefan, Maya Sivanandan) was tasked with creating a rover that could complete several missions in The O, the center courtyard of Olin’s campus. The three main challenges were: Navigation of unobstructed terrain, Docking in a supply station, and Delivering a payload to a drop box. Besides this, our team decided to try and do 3 extra stretch goals: Navigate through stationary obstacles, park within the medium box of the supply station, and deliver our payload to a specific dropbox using April tags (with a possible one being finding payloads around the O and picking those up for extra deliveries).</description>
+    </item>
+    
+    <item>
       <title>Terminal Chess</title>
       <link>https://nabihestefan.github.io/projects/creations/terminalchess/</link>
       <pubDate>Mon, 05 Apr 2021 12:00:00 -0500</pubDate>

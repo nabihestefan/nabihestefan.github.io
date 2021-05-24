@@ -6,10 +6,100 @@
     <description>Recent content in Tags on Nabih Estefan Diaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Apr 2021 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 16 May 2021 12:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://nabihestefan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AlphaBeta Pruning</title>
+      <link>https://nabihestefan.github.io/tags/alphabeta-pruning/</link>
+      <pubDate>Sun, 16 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/tags/alphabeta-pruning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristic Evaluation</title>
+      <link>https://nabihestefan.github.io/tags/heuristic-evaluation/</link>
+      <pubDate>Sun, 16 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/tags/heuristic-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimax</title>
+      <link>https://nabihestefan.github.io/tags/minimax/</link>
+      <pubDate>Sun, 16 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/tags/minimax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://nabihestefan.github.io/tags/python/</link>
+      <pubDate>Sun, 16 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree Traversal</title>
+      <link>https://nabihestefan.github.io/tags/tree-traversal/</link>
+      <pubDate>Sun, 16 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/tags/tree-traversal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous</title>
+      <link>https://nabihestefan.github.io/tags/autonomous/</link>
+      <pubDate>Wed, 12 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/tags/autonomous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MATLAB</title>
+      <link>https://nabihestefan.github.io/tags/matlab/</link>
+      <pubDate>Wed, 12 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://nabihestefan.github.io/tags/raspberry-pi/</link>
+      <pubDate>Wed, 12 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://nabihestefan.github.io/tags/robotics/</link>
+      <pubDate>Wed, 12 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rover</title>
+      <link>https://nabihestefan.github.io/tags/rover/</link>
+      <pubDate>Wed, 12 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://nabihestefan.github.io/tags/rover/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>C</title>
@@ -156,15 +246,6 @@
     </item>
     
     <item>
-      <title>MatLab</title>
-      <link>https://nabihestefan.github.io/tags/matlab/</link>
-      <pubDate>Fri, 11 Dec 2020 12:00:00 -0500</pubDate>
-      
-      <guid>https://nabihestefan.github.io/tags/matlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Minecraft</title>
       <link>https://nabihestefan.github.io/tags/minecraft/</link>
       <pubDate>Fri, 11 Dec 2020 12:00:00 -0500</pubDate>
@@ -206,15 +287,6 @@
       <pubDate>Mon, 11 May 2020 12:00:00 -0500</pubDate>
       
       <guid>https://nabihestefan.github.io/tags/pygame/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://nabihestefan.github.io/tags/python/</link>
-      <pubDate>Mon, 11 May 2020 12:00:00 -0500</pubDate>
-      
-      <guid>https://nabihestefan.github.io/tags/python/</guid>
       <description></description>
     </item>
     
