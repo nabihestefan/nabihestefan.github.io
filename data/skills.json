@@ -1,7 +1,8 @@
 [
   {
       "grouping":"Coding",
-      "skills":[ "Java", "Python", "HTML", "CSS3", "JavaScript", "Arduino", "R", "OCaml", "C", "MatLab"]
+      "skills":[ "Java", "Python", "C", "MatLab", "Arduino", "HTML", "CSS3",
+        "JavaScript", "R", "OCaml"]
   },
   {
       "grouping":"Operation Systems",
@@ -9,7 +10,8 @@
   },
   {
       "grouping":"Other Tools",
-      "skills":[ "Computer Architecture", "Verilog", "Data Science", "Latex", "Circuit Design"]
+      "skills":["Arduino", "Raspberry Pi", "Latex", "Circuit Design",
+        "Computer Architecture", "Verilog", "Data Science"]
   },
   {
       "grouping":"Languages",

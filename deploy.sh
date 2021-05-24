@@ -19,3 +19,5 @@ printf "\033[0;32mPushed to Portfolio\033[0m\n"
 
 # Build the project.
 hugo -t hugo-resume
+
+## To publish, copy public folder into other repo and push that repo
