@@ -1,8 +1,8 @@
 [
     {
-        "role":"Google STEP (Student Training in Engineering Program) Intern",
-        "company":"<a href='https://buildyourfuture.withgoogle.com/programs/step/' target='_blank' rel='noopener noreferrer'>Google</a>",
-        "summary":"Intern in Google's STEP Program. Specifics TBD.",
+        "role":"STEP Intern",
+        "company":"<a href='https://buildyourfuture.withgoogle.com/programs/step/' target='_blank' rel='noopener noreferrer'>Google</a> - AndroidX Team",
+        "summary":"Designed, planned development, and deployed internal tool used in Android API Change reviewing. Developed Java and Kotlin functions for communication with back-end and processing the data received and tests for these functions. Also developed front end for tool interaction. Expected reduction in API Reviewing of 20 SWE/EM hours per week",
         "range":"May 2021 - August 2021"
     },
     {
