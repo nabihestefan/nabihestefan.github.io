@@ -1,12 +1,12 @@
 [
   {
       "grouping":"Coding",
-      "skills":[ "Java", "Python", "C", "MatLab", "Arduino", "Java",
-        "HTML", "CSS3", "JavaScript", "R", "OCaml"]
+      "skills":[ "Kotlin", "Java", "Python", "C", "MatLab", "Arduino", "HTML",
+        "CSS3", "JavaScript", "R", "OCaml"]
   },
   {
       "grouping":"Operation Systems",
-      "skills":[ "Linux", "MacOS", "Windows"]
+      "skills":[ "GLinux", "Linux", "MacOS", "Windows"]
   },
   {
       "grouping":"Other Tools",
