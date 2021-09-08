@@ -12,6 +12,12 @@
         "range":"August 2019 - Present"
     },
     {
+        "role":"IT Student Worker",
+        "company":"<a href='https://www.olin.edu' target='_blank' rel='noopener noreferrer'>Olin College of Engineering</a>",
+        "summary":"Man the IT Help Desk during the week to help students with software and hardware problems in their computers. Fix computer, network, and general tech problems all throughout the college. Train new student workers to help the IT department and help new students set up their laptops.",
+        "range":"January 2020 - Present"
+    },
+    {
         "role":"Member of the Board of Directors",
         "company":"<a href='https://sedisolutions.co/' target='_blank' rel='noopener noreferrer'>SEDI Solutions</a>",
         "summary":"SEDI is a software development company based in Colombia focused on solutions for the self-storage industry. As part of the board of directors, helping guide the company to the goals we seek to achieve.",
@@ -24,15 +30,9 @@
         "range":"September 2019 - Present"
     },
     {
-        "role":"IT Student Worker",
-        "company":"<a href='https://www.olin.edu' target='_blank' rel='noopener noreferrer'>Olin College of Engineering</a>",
-        "summary":"Man the IT Help Desk during the week to help students with software and hardware problems in their computers. Was able to learn a lot about Windows and Linux, and also how computers work.",
-        "range":"January 2020 - Present"
-    },
-    {
         "role":"Research Assistant",
         "company":"<a href='https://www.olin.edu' target='_blank' rel='noopener noreferrer'>Olin College of Engineering</a>",
-        "summary":"I worked as a Research Assistant in Aquaculture research, where I learned about the Aquaculture community, testing and designing sensors for different measurements to help in keeping farms. Cannot give details since the product is still being developed.",
+        "summary":"IWorked as a Research Assistant in Aquaculture research. Learned about the Aquaculture community, testing and designing sensors for different measurements to help in keeping farms.",
         "range":"June 2020 - August 2020"
     },
     {
