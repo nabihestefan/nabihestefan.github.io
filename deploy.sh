@@ -21,7 +21,6 @@ printf "\033[0;32mPushed to Portfolio\033[0m\n"
 hugo -t hugo-resume
 
 ## Publish
-cd public/
 
 # If a command fails then the deploy stops
 set -e
@@ -34,8 +33,8 @@ if [ -n "$*" ]; then
 fi
 
 #commit to Portfolio repo
-git add -A
+git add public/.
 git commit -m "$msg"
-git push origin main
+git push website main
 
 printf "\033[0;32mPushed to Public\033[0m\n"
