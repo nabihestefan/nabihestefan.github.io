@@ -1,0 +1,42 @@
+title = "Nabih Estefan Diaz"
+baseURL = "https://estefan.co"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Olin College of Engineering"
+email = "estefan.nabih@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Nabih"
+lastName = "Estefan Diaz"
+phone = "1-857-308-9574"
+profileImage = "img/fallPhoto.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = false
+showQr = true
+showSkills = true
+
+
+[[params.handles]]
+link = "https://github.com/nabihestefan/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/nabih-estefan/"
+name = "LinkedIn"
+
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
+theme = "hugo-resume"

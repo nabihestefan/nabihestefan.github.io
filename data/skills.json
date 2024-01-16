@@ -1,0 +1,20 @@
+[
+  {
+      "grouping":"Coding",
+      "skills":[ "Kotlin", "Java", "Python", "C", "MatLab", "Arduino", "HTML",
+        "CSS3", "JavaScript", "R", "OCaml"]
+  },
+  {
+      "grouping":"Operation Systems",
+      "skills":[ "GLinux", "Linux", "MacOS", "Windows"]
+  },
+  {
+      "grouping":"Other Tools",
+      "skills":["Arduino", "Raspberry Pi", "Latex", "Circuit Design",
+        "Computer Architecture", "Verilog", "Data Science"]
+  },
+  {
+      "grouping":"Languages",
+      "skills":["Spanish: Native", "English: Fluent", "Portuguese: Intermediate"]
+  }
+]

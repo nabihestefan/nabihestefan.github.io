@@ -1,0 +1,16 @@
+[
+    {
+        "school":"<a href='https://www.olin.edu' target='_blank' rel='noopener noreferrer'>Olin College of Engineering</a>",
+        "degree":"Bachelor of Engineering",
+        "major":" Electrical & Computer Engineering - 3.95/4.0 GPA",
+        "notes":"Recipient of a 50%, 4-year, Merit Scholarship",
+        "range":"2019 - 2023"
+    },
+    {
+        "school":"<a href='https://www.nogales.edu.co' target='_blank' rel='noopener noreferrer'>Colegio Los Nogales</a>",
+        "degree":"High School Diploma",
+        "major":"",
+        "notes":"",
+        "range":"2004 - 2019"
+    }
+]
